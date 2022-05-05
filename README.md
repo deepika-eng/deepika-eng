@@ -21,7 +21,7 @@
 ### <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 <a href=https://www.linkedin.com/in/deepika-patil-871988192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20Deepika%20Patil-blue?style=flat&logo=linkedin"></a>
-<a href="https://github.com/aurobindobhuyan"><img alt="Github" src="https://img.shields.io/badge/GitHub-AurobindoBhuyan-blue?style=flat&logo=github"></a>
+<a href="https://github.com/deepika-eng"><img alt="Github" src="https://img.shields.io/badge/GitHub-Deepika Patil-blue?style=flat&logo=github"></a>
 <a href="mailto:deepika.patil168@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-deepika.patil168%40gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
